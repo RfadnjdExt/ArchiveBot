@@ -1,7 +1,7 @@
 # ArchiveBot
 
 <p align="center">
-  <img src="https://cdn.lewd.host/TFif7zxf.png" alt="ArchiveBot Logo" width="150" style="border-radius: 25%"/>
+  <img src="https://cdn.lewd.host/mvgITeV1.png" alt="ArchiveBot Logo" width="150"/>
 </p>
 
 Sebuah bot Discord yang dirancang untuk mengekspor riwayat percakapan dari satu channel ke channel lain secara bersih dan terstruktur. Bot ini bukan sekadar _forwarder_, melainkan sebuah alat arsip yang cerdas, mengelompokkan pesan, mempertahankan identitas pengirim, dan menangani lampiran dengan baik.
